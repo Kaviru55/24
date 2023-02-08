@@ -63,7 +63,7 @@ download_dict = {}
 rss_dict = {}
 
 
-BOT_TOKEN = environ.get('5460871345:AAGZxCIAZQvJiRBFrRonUtmWHLbA7pT3IZs')
+BOT_TOKEN = environ.get('5460871345:AAE-ZVbZfgNjazXB1cYWLEof0JIi0KTb4rk')
 if len(BOT_TOKEN) == 0:
     log_error("BOT_TOKEN variable is missing! Exiting now")
     exit(1)
