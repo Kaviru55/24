@@ -1,6 +1,8 @@
 aiohttp
 anytree
 aria2p
+
+
 asgiref
 asyncio
 beautifulsoup4
@@ -19,6 +21,7 @@ google-auth-oauthlib
 gunicorn
 lk21
 lxml
+python-dotenv
 mediainfo
 pillow
 psutil
